@@ -254,7 +254,7 @@ RECOMMENDATIONS:
         <sub><b>@Kweenbee187</b></sub>
       </a>
       <br />
-      <sub>Project Lead</sub>
+      <sub></sub>
     </td>
     <td align="center">
       <a href="https://github.com/tituatgithub">
@@ -263,7 +263,7 @@ RECOMMENDATIONS:
         <sub><b>@tituatgithub</b></sub>
       </a>
       <br />
-      <sub>Satellite & Analytics</sub>
+      <sub></sub>
     </td>
   </tr>
 </table>
