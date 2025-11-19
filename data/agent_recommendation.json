@@ -1,0 +1,17 @@
+{
+  "priority": "MEDIUM",
+  "reason": "Vegetation stress with multiple negative reports",
+  "actions": [
+    "Monitor affected areas",
+    "Prepare relief resources"
+  ],
+  "evidence": {
+    "mean_ndvi": 0.2647817245148008,
+    "mean_ndwi": -0.16311209971036458,
+    "mean_sentiment": -2.388308288621992,
+    "negative_reports": 945,
+    "total_reports": 6873,
+    "observation_date": "2018-09-11T05:06:49.024000+00:00"
+  },
+  "confidence": "OBSERVATIONAL"
+}
