@@ -63,30 +63,4 @@ Apache License 2.0
 
 ---
 
-## ▶ Running the Pipeline
-
-```bash
-python ecosphere/pipeline.py
-🏆 Built for SEED Global Hackathon 2025
-
-A truly multimodal climate intelligence system.
-
----
-
-# 🟦 PYTHON MODULES  
-All modules below are perfectly clean + modular + directly usable.
-
----
-
-## 📁 **`ecosphere/config.py`**
-
-```python
-BBOX = [76.35, 9.8, 76.70, 10.1]
-DATE_RANGE = "2018-08-01/2018-09-05"
-MAX_CLOUD_COVER = 30
-
-GDELT_DATES = [
-    "20180815", "20180816", "20180817",
-    "20180818", "20180819", "20180820"
-]
 
